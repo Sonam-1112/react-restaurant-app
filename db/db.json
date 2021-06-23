@@ -1,0 +1,45 @@
+{
+  "login":[
+    {"name":"Sonam",
+    "password":"sonam"}
+  ],
+  
+
+  "restaurant": [
+    {
+      "id": 3,
+      "name": "Dominos",
+      "address": "Delhi",
+      "rating": "4.4",
+      "email": "dominos@test.com"
+    },
+    {
+      "name": "Burger King",
+      "email": "burgerk@test.com",
+      "rating": "3.5",
+      "address": "Mumbai",
+      "id": 4
+    },
+    {
+      "id": 5,
+      "name": "Subway Sufers",
+      "address": "Pune",
+      "rating": "4.2",
+      "email": "subway@test.com"
+    },
+    {
+      "name": "KFC",
+      "email": "kfc123@gamil.com",
+      "rating": "4.7",
+      "address": "Mumbai",
+      "id": 7
+    },
+    {
+      "name": "Chicken King",
+      "email": "chickenk@gmail.com",
+      "rating": "3.5",
+      "address": "Nagpur",
+      "id": 8
+    }
+  ]
+}
